@@ -7,3 +7,14 @@
 * stage the file
 * commit the file and write a message
 * push to GitHub
+
+** Mae a website 
+* Create an ' index.md '
+* Add some content
+* Save the file
+* Stage the file
+* Commit the file and write a message
+* Push o GitHub
+
+
+And add more texts to your file and then stage it agains
